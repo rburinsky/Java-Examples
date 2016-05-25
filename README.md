@@ -1,4 +1,4 @@
-# Java-School Example ```
+# Java Project Example ```
 
 Java Super Class example with dice roll dueling game.
 
