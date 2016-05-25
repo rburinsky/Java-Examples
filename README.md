@@ -1,1 +1,9 @@
-# Java-School
+# Java-School Example ```
+
+Java Super Class example with dice roll dueling game.
+
+DuelEmpire.java is a subclass of DuelCombatants.Java
+
+
+
+```
